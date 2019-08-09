@@ -35,9 +35,8 @@
         * [3.8.1 giboの利用](part3/chapter8/section1.md)
         * [3.8.2 Gitbookの利用](part3/chapter8/section2.md)
     * [3.9 よくある設定](part3/chapter9/README.md)
-        * [3.9.1 Gitbook環境の構築](part3/chapter9/section1.md)
-        * [3.9.1 複数Githubアカウントを同じPCでの利用](part3/chapter9/section2.md)
-        * [3.9.2 upstreamの設定方法](part3/chapter9/section3.md)
+        * [3.9.1 複数Githubアカウントを同じPCでの利用](part3/chapter9/section1.md)
+        * [3.9.2 upstreamの設定方法](part3/chapter9/section2.md)
     * [3.10 よくあるエラー対応](part3/chapter10/README.md)
         * [3.10.1 新規Local Repositoryから,Remote Repositoryにpush時のrejectエラー対処](part3/chapter10/section1.md)
 
